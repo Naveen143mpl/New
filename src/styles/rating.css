@@ -1,0 +1,9 @@
+.rating-section {
+  text-align: center;
+  margin: 20px;
+}
+
+.stars span {
+  font-size: 30px;
+  cursor: pointer;
+}
