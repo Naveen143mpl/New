@@ -4,8 +4,9 @@ import Rating from "../components/Rating";
 export default function Home() {
   return (
     <div>
-      <Carousel />
+      <Carousel/>
       <Rating />
+      
     </div>
   );
 }
