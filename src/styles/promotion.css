@@ -1,0 +1,38 @@
+.carousel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.c-img {
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+  margin: 0 10px;
+}
+#carouselExampleIndicator{
+  width: 100%;
+  margin: auto;
+  height: 60vh;
+  border: 2px solid black;
+}
+#carouselExampleIndicators,
+.carousel-inner,
+.carousel-item {
+  height: 500px;
+}
+
+/* Show full image */
+#proimg {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;   /* full image visible */
+  background: #000;      /* avoid white gaps */
+}
+#proimg {
+  width: 100%;
+  height: 100%;
+  object-fit: scale-down;
+}
+

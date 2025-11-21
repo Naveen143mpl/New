@@ -11,3 +11,13 @@
   border-radius: 10px;
   margin: 0 10px;
 }
+#carouselExampleIndicators{
+  width: 100%;
+  margin: auto;
+  height: 60vh;
+  border: 2px solid black;
+}
+#curvimg{
+  border-radius: 15px;
+  height:60vh;
+}

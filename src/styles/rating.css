@@ -7,3 +7,16 @@
   font-size: 30px;
   cursor: pointer;
 }
+#ratingtext {
+    width: 100%;
+    background-color: #ffccdd; 
+    padding: 10px 0;
+    text-align: center;
+  }
+
+  #ratingtext p {
+    color: #d6006e; 
+    font-size: 22px;
+    font-weight: 600;
+    margin: 0;
+  }
